@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.6</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
 
     <name>sfg-pet-clinic</name>
-    <description>SFG Pet Clinic Project</description>
+    <description>Vic Pet Clinic Project</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -96,7 +96,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:vpeitton/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:vpeitton/springpetclinic.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
