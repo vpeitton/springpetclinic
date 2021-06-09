@@ -97,7 +97,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:vpeitton/springpetclinic.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
