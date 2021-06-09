@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.6-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -97,7 +97,7 @@
 
     <scm>
         <!--suppress UnresolvedMavenProperty -->
-        <developerConnection>scm:git:http://${vpeitton}:${Shuviadekorasones12}git@github.com:vpeitton/springpetclinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:vpeitton/springpetclinic.git</developerConnection>
         <tag>sfg-pet-clinic-0.0.4</tag>
     </scm>
 
